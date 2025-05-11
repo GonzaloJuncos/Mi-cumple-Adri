@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el lado del cuadrado'
+5
+1
+1
+L
+6
+2
+1
+P
+13
+L + L + L + L
+1
+A
+3
+L*L
+4
+1
+62
+'El perimetro del cuadrado es : ', P,  ' Y el area es : ' ,  A
+1

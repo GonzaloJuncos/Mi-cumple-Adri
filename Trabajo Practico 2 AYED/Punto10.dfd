@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Ingrese los valores'
+5
+1
+6
+V1, V2
+7
+0
+1
+5
+V1>V2
+7
+0
+1
+5
+V1=V2
+4
+1
+31
+'El valor mas grande es : ', V2
+13
+6
+1
+1
+S
+5
+V1+V2
+4
+1
+44
+'La suma de los numeros ingresados es : ', S
+13
+13
+4
+1
+31
+' El valor mas grande es: ', V1
+13
+1

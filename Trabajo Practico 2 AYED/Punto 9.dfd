@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Ingrese los valores'
+5
+1
+6
+V1, V2
+4
+1
+64
+'Ingrese el valor para ver si se encuentra entre los intervalos'
+5
+1
+2
+VI
+7
+0
+1
+20
+VI >= V1 and VI <=V2
+4
+1
+52
+'El valor ingresado no se encuentra en el intervalo'
+13
+4
+1
+54
+'El valor ingresado se encuentra entre los intervalos'
+13
+1

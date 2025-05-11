@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Ingrese el radio'
+5
+1
+1
+R
+6
+3
+2
+PI
+6
+3.1416
+1
+P
+6
+2*PI*R
+1
+S
+6
+PI*R*R
+4
+1
+35
+'El perimetro del circulo es : ', P
+4
+1
+36
+'La superficie del circulo es: ' , S
+1

@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Ingrese los valores de los coeficientes A, B, C'
+5
+1
+7
+A, B, C
+7
+0
+1
+6
+A != 0
+4
+1
+37
+'El valor de A no puede ser negativa'
+13
+6
+2
+2
+XP
+27
+-B +( 0.5*(B*B- 4*A*C))/2*A
+2
+XN
+27
+-B -( 0.5*(B*B- 4*A*C))/2*A
+4
+1
+61
+'El valor de las X son : ',  XP , ' Y el otro valor es: ', XN
+13
+1

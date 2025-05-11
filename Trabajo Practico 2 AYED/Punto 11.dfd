@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'ingrese las coordenadas de los valores X e Y'
+5
+1
+4
+X, Y
+7
+0
+1
+14
+X = 0 and Y =0
+7
+0
+1
+13
+X=0 and Y !=0
+7
+0
+1
+15
+Y = 0 and X !=0
+7
+0
+1
+14
+X >0 and Y > 0
+7
+0
+1
+14
+X < 0 and Y >0
+7
+0
+1
+11
+X and Y < 0
+4
+1
+47
+' El valor se encuentra en el cuarto cuadrante'
+13
+4
+1
+48
+' El valor se encuentra en el tercer cuadrante '
+13
+13
+4
+1
+47
+'El valor se encuentra en el segundo cuadrante'
+13
+13
+4
+1
+46
+'El valor se encuentra en el primer cuadrante'
+13
+13
+4
+1
+26
+'Se encuentra en el eje X'
+13
+13
+4
+1
+26
+'Se encuentra en el eje Y'
+13
+13
+4
+1
+56
+'Las coordenadas se encuentran en el eje de coordenadas'
+13
+1

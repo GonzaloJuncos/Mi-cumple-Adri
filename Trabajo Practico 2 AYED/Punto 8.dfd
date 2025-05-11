@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Ingrese los coeficientes A, B Y C por favor' 
+5
+1
+5
+A,B,C
+7
+0
+1
+6
+A != 0
+4
+1
+47
+'El coeficiente A tiene que ser distitnto de 0'
+13
+6
+1
+1
+X
+7
+(C-B)/A
+4
+1
+34
+'El valor de la ecuacion es: ' , X
+13
+1

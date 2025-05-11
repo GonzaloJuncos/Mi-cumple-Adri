@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+' Ingrese los valores para ver cual es el menor '
+5
+1
+6
+V1, V2
+7
+0
+1
+5
+V1<V2
+4
+1
+26
+'El numero menor es: ', V2
+13
+4
+1
+26
+'El numero menor es: ', V1
+13
+1
